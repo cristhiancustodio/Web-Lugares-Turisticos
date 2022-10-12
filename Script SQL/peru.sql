@@ -1,4 +1,4 @@
-drop database peru;
+
 create database peru;
 use peru;
 create table departamentos(
